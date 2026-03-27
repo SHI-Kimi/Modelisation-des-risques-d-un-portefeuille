@@ -10,6 +10,6 @@ Pour les créateurs du projet, l'objectif du projet est double :
 - Apprendre à utiliser certaines bibliothèques et librairies, telles que scipy, matplotlib, pandas, ...
 
 Pour l'utilisateur, les résultats du programme permettent de lui apporter des informations sur les risques qu'il porte. 
-Ces résultats peuvent être plus ou moins pertinentes, MAIS N'INCITENT EN AUCUN CAS À PRENDRE UNE DÉCISION PLUTÔT QU'UNE AUTRE.
+Ces résultats peuvent être plus ou moins pertinents, MAIS N'INCITENT EN AUCUN CAS À PRENDRE UNE DÉCISION PLUTÔT QU'UNE AUTRE.
 
 LES RÉSULTATS DU PROGRAMME SONT PRÉSENTÉES À TITRE INFORMATIVE, ET NON DÉCISIONNELLE.
